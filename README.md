@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Nicolás Rodríguez Briceño
+# 👋 Hi, I’m Nicolás Rodríguez/tripahq
 
 ## 🧑‍💻 About Me
 I am an Front-End Web-Designer with a passion for learning and working with new technologies. I have a strong foundation in web development and experience working with various frameworks and programming languages.
