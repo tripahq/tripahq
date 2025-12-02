@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Nicolás Rodríguez/tripahq
 
 ## 🧑‍💻 About Me
-I am an Front-End Web-Designer with a passion for learning and working with new technologies. I have a strong foundation in web development and experience working with various frameworks and programming languages.
+I am an Chilean Front-End Web-Designer with a passion for learning and working with new technologies.
 
 ## 🌟 What I Do
 - **Frontend:** Vue.js, Bootstrap, jQuery.
