@@ -5,7 +5,7 @@ I am an Front-End Web-Designer with a passion for learning and working with new 
 
 ## 🌟 What I Do
 - **Frontend:** Vue.js, Bootstrap, jQuery.
-- 
+
 ## 🚀 Skills
 - **Languages:** JavaScript.
 - **Frameworks:** Vue.js,
