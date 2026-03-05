@@ -7,8 +7,8 @@ I am a Chilean Front-End Web-Designer with a passion for learning and working wi
 - **Frontend:** Vue.js, Bootstrap, jQuery.
 
 ## 🚀 Skills
-- **Languages:** JavaScript, HTML5, CSS3.
-- **Frameworks:** Vue.js,
+- **Languages:** Pyhon,JavaScript, HTML5, CSS3.
+- **Frameworks:** Vue.js, React.
 - **Tools:** Bootstrap.
 - **Others:** Arduino, Git.
 
